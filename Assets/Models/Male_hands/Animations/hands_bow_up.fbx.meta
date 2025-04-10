@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 49291425c3e15fc41abf748be946f8cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow_place
+    100002: //RootNode
+    100004: Left_hand_tools
+    100006: LeftArm
+    100008: LeftForeArm
+    100010: LeftHand
+    100012: LeftHandIndex1
+    100014: LeftHandIndex2
+    100016: LeftHandIndex3
+    100018: LeftHandIndex4
+    100020: LeftHandMiddle1
+    100022: LeftHandMiddle2
+    100024: LeftHandMiddle3
+    100026: LeftHandMiddle4
+    100028: LeftHandPinky1
+    100030: LeftHandPinky2
+    100032: LeftHandPinky3
+    100034: LeftHandPinky4
+    100036: LeftHandRing1
+    100038: LeftHandRing2
+    100040: LeftHandRing3
+    100042: LeftHandRing4
+    100044: LeftHandThumb1
+    100046: LeftHandThumb2
+    100048: LeftHandThumb3
+    100050: LeftHandThumb4
+    100052: LeftShoulder
+    100054: Right_hand_tools
+    100056: RightArm
+    100058: RightForeArm
+    100060: RightHand
+    100062: RightHandIndex1
+    100064: RightHandIndex2
+    100066: RightHandIndex3
+    100068: RightHandIndex4
+    100070: RightHandMiddle1
+    100072: RightHandMiddle2
+    100074: RightHandMiddle3
+    100076: RightHandMiddle4
+    100078: RightHandPinky1
+    100080: RightHandPinky2
+    100082: RightHandPinky3
+    100084: RightHandPinky4
+    100086: RightHandRing1
+    100088: RightHandRing2
+    100090: RightHandRing3
+    100092: RightHandRing4
+    100094: RightHandThumb1
+    100096: RightHandThumb2
+    100098: RightHandThumb3
+    100100: RightHandThumb4
+    100102: RightShoulder
+    100104: Spine2
+    100106: sk
+    400000: Arrow_place
+    400002: //RootNode
+    400004: Left_hand_tools
+    400006: LeftArm
+    400008: LeftForeArm
+    400010: LeftHand
+    400012: LeftHandIndex1
+    400014: LeftHandIndex2
+    400016: LeftHandIndex3
+    400018: LeftHandIndex4
+    400020: LeftHandMiddle1
+    400022: LeftHandMiddle2
+    400024: LeftHandMiddle3
+    400026: LeftHandMiddle4
+    400028: LeftHandPinky1
+    400030: LeftHandPinky2
+    400032: LeftHandPinky3
+    400034: LeftHandPinky4
+    400036: LeftHandRing1
+    400038: LeftHandRing2
+    400040: LeftHandRing3
+    400042: LeftHandRing4
+    400044: LeftHandThumb1
+    400046: LeftHandThumb2
+    400048: LeftHandThumb3
+    400050: LeftHandThumb4
+    400052: LeftShoulder
+    400054: Right_hand_tools
+    400056: RightArm
+    400058: RightForeArm
+    400060: RightHand
+    400062: RightHandIndex1
+    400064: RightHandIndex2
+    400066: RightHandIndex3
+    400068: RightHandIndex4
+    400070: RightHandMiddle1
+    400072: RightHandMiddle2
+    400074: RightHandMiddle3
+    400076: RightHandMiddle4
+    400078: RightHandPinky1
+    400080: RightHandPinky2
+    400082: RightHandPinky3
+    400084: RightHandPinky4
+    400086: RightHandRing1
+    400088: RightHandRing2
+    400090: RightHandRing3
+    400092: RightHandRing4
+    400094: RightHandThumb1
+    400096: RightHandThumb2
+    400098: RightHandThumb3
+    400100: RightHandThumb4
+    400102: RightShoulder
+    400104: Spine2
+    400106: sk
+    7400000: hands_bow_up
+    9500000: //RootNode
+    11400000: Arrow_place
+    11400002: //RootNode
+    11400004: //RootNode
+    11400006: Left_hand_tools
+    11400008: LeftArm
+    11400010: LeftForeArm
+    11400012: LeftHand
+    11400014: LeftHandIndex1
+    11400016: LeftHandIndex2
+    11400018: LeftHandIndex3
+    11400020: LeftHandIndex4
+    11400022: LeftHandMiddle1
+    11400024: LeftHandMiddle2
+    11400026: LeftHandMiddle3
+    11400028: LeftHandMiddle4
+    11400030: LeftHandPinky1
+    11400032: LeftHandPinky2
+    11400034: LeftHandPinky3
+    11400036: LeftHandPinky4
+    11400038: LeftHandRing1
+    11400040: LeftHandRing2
+    11400042: LeftHandRing3
+    11400044: LeftHandRing4
+    11400046: LeftHandThumb1
+    11400048: LeftHandThumb2
+    11400050: LeftHandThumb3
+    11400052: LeftHandThumb4
+    11400054: LeftShoulder
+    11400056: Right_hand_tools
+    11400058: RightArm
+    11400060: RightForeArm
+    11400062: RightHand
+    11400064: RightHandIndex1
+    11400066: RightHandIndex2
+    11400068: RightHandIndex3
+    11400070: RightHandIndex4
+    11400072: RightHandMiddle1
+    11400074: RightHandMiddle2
+    11400076: RightHandMiddle3
+    11400078: RightHandMiddle4
+    11400080: RightHandPinky1
+    11400082: RightHandPinky2
+    11400084: RightHandPinky3
+    11400086: RightHandPinky4
+    11400088: RightHandRing1
+    11400090: RightHandRing2
+    11400092: RightHandRing3
+    11400094: RightHandRing4
+    11400096: RightHandThumb1
+    11400098: RightHandThumb2
+    11400100: RightHandThumb3
+    11400102: RightHandThumb4
+    11400104: RightShoulder
+    11400106: sk
+    11400108: Spine2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: sk
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hands_bow_up
+      takeName: CINEMA_4D_bow
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Switch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.04329004
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 6e49fa141326f9640a798a570de2c2f9,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

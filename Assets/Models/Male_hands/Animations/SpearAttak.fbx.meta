@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 2328d22d60c9806438ab9f07cb7f7a1e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LeftArm
+    100002: LeftForeArm
+    100004: LeftHand
+    100006: LeftHandIndex1
+    100008: LeftHandIndex2
+    100010: LeftHandIndex3
+    100012: LeftHandIndex4
+    100014: LeftHandMiddle1
+    100016: LeftHandMiddle2
+    100018: LeftHandMiddle3
+    100020: LeftHandMiddle4
+    100022: LeftHandPinky1
+    100024: LeftHandPinky2
+    100026: LeftHandPinky3
+    100028: LeftHandPinky4
+    100030: LeftHandRing1
+    100032: LeftHandRing2
+    100034: LeftHandRing3
+    100036: LeftHandRing4
+    100038: LeftHandThumb1
+    100040: LeftHandThumb2
+    100042: LeftHandThumb3
+    100044: LeftHandThumb4
+    100046: LeftShoulder
+    100048: RightArm
+    100050: RightForeArm
+    100052: RightHand
+    100054: RightHandIndex1
+    100056: RightHandIndex2
+    100058: RightHandIndex3
+    100060: RightHandIndex4
+    100062: RightHandMiddle1
+    100064: RightHandMiddle2
+    100066: RightHandMiddle3
+    100068: RightHandMiddle4
+    100070: RightHandPinky1
+    100072: RightHandPinky2
+    100074: RightHandPinky3
+    100076: RightHandPinky4
+    100078: RightHandRing1
+    100080: RightHandRing2
+    100082: RightHandRing3
+    100084: RightHandRing4
+    100086: RightHandThumb1
+    100088: RightHandThumb2
+    100090: RightHandThumb3
+    100092: RightHandThumb4
+    100094: RightShoulder
+    100096: //RootNode
+    100098: Spine2
+    100100: sk
+    400000: LeftArm
+    400002: LeftForeArm
+    400004: LeftHand
+    400006: LeftHandIndex1
+    400008: LeftHandIndex2
+    400010: LeftHandIndex3
+    400012: LeftHandIndex4
+    400014: LeftHandMiddle1
+    400016: LeftHandMiddle2
+    400018: LeftHandMiddle3
+    400020: LeftHandMiddle4
+    400022: LeftHandPinky1
+    400024: LeftHandPinky2
+    400026: LeftHandPinky3
+    400028: LeftHandPinky4
+    400030: LeftHandRing1
+    400032: LeftHandRing2
+    400034: LeftHandRing3
+    400036: LeftHandRing4
+    400038: LeftHandThumb1
+    400040: LeftHandThumb2
+    400042: LeftHandThumb3
+    400044: LeftHandThumb4
+    400046: LeftShoulder
+    400048: RightArm
+    400050: RightForeArm
+    400052: RightHand
+    400054: RightHandIndex1
+    400056: RightHandIndex2
+    400058: RightHandIndex3
+    400060: RightHandIndex4
+    400062: RightHandMiddle1
+    400064: RightHandMiddle2
+    400066: RightHandMiddle3
+    400068: RightHandMiddle4
+    400070: RightHandPinky1
+    400072: RightHandPinky2
+    400074: RightHandPinky3
+    400076: RightHandPinky4
+    400078: RightHandRing1
+    400080: RightHandRing2
+    400082: RightHandRing3
+    400084: RightHandRing4
+    400086: RightHandThumb1
+    400088: RightHandThumb2
+    400090: RightHandThumb3
+    400092: RightHandThumb4
+    400094: RightShoulder
+    400096: //RootNode
+    400098: Spine2
+    400100: sk
+    7400000: Spear2_up
+    7400002: Spear2_st
+    7400004: Spear2_Attack
+    9500000: //RootNode
+    11400000: LeftArm
+    11400002: LeftForeArm
+    11400004: LeftHand
+    11400006: LeftHandIndex1
+    11400008: LeftHandIndex2
+    11400010: LeftHandIndex3
+    11400012: LeftHandIndex4
+    11400014: LeftHandMiddle1
+    11400016: LeftHandMiddle2
+    11400018: LeftHandMiddle3
+    11400020: LeftHandMiddle4
+    11400022: LeftHandPinky1
+    11400024: LeftHandPinky2
+    11400026: LeftHandPinky3
+    11400028: LeftHandPinky4
+    11400030: LeftHandRing1
+    11400032: LeftHandRing2
+    11400034: LeftHandRing3
+    11400036: LeftHandRing4
+    11400038: LeftHandThumb1
+    11400040: LeftHandThumb2
+    11400042: LeftHandThumb3
+    11400044: LeftHandThumb4
+    11400046: LeftShoulder
+    11400048: RightArm
+    11400050: RightForeArm
+    11400052: RightHand
+    11400054: RightHandIndex1
+    11400056: RightHandIndex2
+    11400058: RightHandIndex3
+    11400060: RightHandIndex4
+    11400062: RightHandMiddle1
+    11400064: RightHandMiddle2
+    11400066: RightHandMiddle3
+    11400068: RightHandMiddle4
+    11400070: RightHandPinky1
+    11400072: RightHandPinky2
+    11400074: RightHandPinky3
+    11400076: RightHandPinky4
+    11400078: RightHandRing1
+    11400080: RightHandRing2
+    11400082: RightHandRing3
+    11400084: RightHandRing4
+    11400086: RightHandThumb1
+    11400088: RightHandThumb2
+    11400090: RightHandThumb3
+    11400092: RightHandThumb4
+    11400094: RightShoulder
+    11400096: sk
+    11400098: //RootNode
+    11400100: //RootNode
+    11400102: Spine2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: sk
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 1
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spear2_up
+      takeName: CINEMA_4D_________ _____
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Switch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.04761905
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.95616436
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spear2_st
+      takeName: CINEMA_4D_________ _____
+      firstFrame: 20
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spear2_Attack
+      takeName: CINEMA_4D_________ _____
+      firstFrame: 120
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: CanSwitch
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: sk
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 6e49fa141326f9640a798a570de2c2f9,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
